@@ -1,5 +1,6 @@
 # reseau-libre-web
 Web d'accueil pour Réseau Libre - http://reseaulibre.ca
+
 Version devel via git pages: http://fredyrouge.github.io/reseau-libre-web/
  * Note: Les changements ne se affichent que 30 min après le push.
 
